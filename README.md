@@ -33,10 +33,7 @@ Siete invitati a partecipare attivamente al progetto! Ecco alcuni modi in cui po
 
 ## Struttura del Repository
 
-*   `testo/`: Contiene il testo della traduzione in italiano. Il testo è suddiviso in capitoli/formule.
-*   `immagini/`:  (Se presente) Contiene immagini o illustrazioni relative al Libro dei Morti di Ani.
-*   `riferimenti/`: (Se presente) Contiene collegamenti a risorse esterne, come edizioni del testo originale, traduzioni in altre lingue, articoli scientifici, ecc.
-*   `NOTE.md`: (Se presente) Note varie sul progetto, convenzioni di traduzione, problemi noti, ecc.
+*   `Il libro dei Morti.docx" contiene la traduzione in formato Word
 
 ## Licenza
 
